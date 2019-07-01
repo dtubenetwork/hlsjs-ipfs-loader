@@ -1,5 +1,5 @@
 {
-  "name": "hlsjs-ipfs-loader",
+  "name": "@dtubenetwork/hlsjs-ipfs-loader",
   "version": "0.1.4",
   "description": "IPFS loader for hls.js",
   "main": "src/index.js",

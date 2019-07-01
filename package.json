@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/moshisushi/hlsjs-ipfs-loader.git"
+    "url": "git+https://github.com/dtubenetwork/hlsjs-ipfs-loader.git"
   },
-  "author": "Henry Rodrick <moshisushi@gmail.com>",
+  "author": "Henry Rodrick <moshisushi@gmail.com>, Dtube network <dtubenetwork@protonmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/moshisushi/hlsjs-ipfs-loader/issues"
+    "url": "https://github.com/dtubenetwork/hlsjs-ipfs-loader/issues"
   },
-  "homepage": "https://github.com/moshisushi/hlsjs-ipfs-loader#readme",
+  "homepage": "https://github.com/dtubenetwork/hlsjs-ipfs-loader#readme",
   "dependencies": {
     "aegir": "^11.0.2",
     "gulp": "^3.9.1"
